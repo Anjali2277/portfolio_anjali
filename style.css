@@ -7,7 +7,7 @@
 .sidebar{
     
     background-color:brown;
-    width:434px;
+    width:300px;
     font-family: 'Fira Sans', sans-serif ;
     height:120vh;
     transition:transform 0.3s ease-in;
@@ -27,7 +27,7 @@
 }
 .main{
     background-color:darkgray;
-    width:90vw;
+    width:100vw;
 }
 .container{
     display:flex;
@@ -174,9 +174,9 @@
 }
 .sidebarGo{
     transform:translate(-443px,0px);
-    position:absolute;
+   }
 
-}
+
 .hamburger{
     position:absolute;
     cursor:pointer;
@@ -193,8 +193,6 @@
 }
 .projectDetail {
     padding: 40px 0;
-    
-    
     margin:auto;
 }
 .container{
